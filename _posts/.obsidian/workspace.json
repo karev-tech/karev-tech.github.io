@@ -56,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,8 +181,15 @@
   },
   "active": "7a3682b7123567c9",
   "lastOpenFiles": [
-    "2025-01-19-test3.md",
+    "assets/Pasted image 20250212001819.png",
+    "assets/Pasted image 20250203112643.png",
     "2025-01-19-How_I_set_up_this_blog.md",
+    "attachments/Pasted image 20250212001742.png",
+    "attachments",
+    "Pasted image 20250203112849.png",
+    "Pasted image 20250203112524.png",
+    "assets",
+    "2025-01-19-test3.md",
     "2025-01-19-.md",
     "2025-01-19-test2.md",
     "2025-01-19-test.md",
