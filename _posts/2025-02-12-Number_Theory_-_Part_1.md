@@ -51,12 +51,12 @@ no. 3, we can say that `d` divides `a`, or in math notations, $d|a$. In
 other words, $d|a$ means that $a=d\times q$.
 
 ### Divisibility
-if $d|a$ , then `d` is a factor of `a` and `a` is a multiple of `d` 
+
+Here are some theorems on divisibility
 
 
-Here are some theorems for divisibility:
-
-- if a|b and a|c then a|(b+c)
-- if a|b then a|bc for all integer c
-- if a|b and b|c then a|c
+>1. if $a\vert b$ and $a\vert c$ then $a\vert (b+c)$  
+>2. if $a\vert b$ then $a\vert bc$ for all integer c
+>3. if $a\vert b$ and $b\vert c$ then $a\vert c$ .
+{: .prompt-info}
 
