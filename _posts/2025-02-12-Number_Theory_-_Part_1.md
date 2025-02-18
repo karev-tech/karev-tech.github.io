@@ -18,11 +18,10 @@ Hey there, welcome to this post. This post is inspired by my math discrete math/
 
 ### Division theorem
 
-
->The division theorem states that:
+The division theorem states that:
 let a be a whole number and d be a positive whole number, then there exists a unique whole number q and r with $0\leq r<d$ such that $a=dq+r$
 
-sdfghjklkjhgfdsdfghj
+
 
 
 
