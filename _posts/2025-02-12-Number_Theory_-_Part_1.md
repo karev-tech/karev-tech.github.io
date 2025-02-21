@@ -60,3 +60,39 @@ Here are some theorems on divisibility
 >3. if $a\vert b$ and $b\vert c$ then $a\vert c$ .
 {: .prompt-info}
 
+Prove of theorem 1:
+
+By the definition of divisibility, $b = a\times q, q\in \mathbb{Z}$ and $c = a \times k, k \in \mathbb{Z}$ 
+
+$b+c=a\times q+a\times k$
+
+$b+c=a(q+k)$
+
+since $q,k \in \mathbb{Z}, (q+k)\in \mathbb{Z}$. 
+
+Meaning that we could rewrite as $b+c = a*j, j\in \mathbb{Z}$. 
+
+Hence, $a\vert(b+c)$.
+
+Prove of theorem 2 and 3 are left as an exercise to the reader. You could prove it with similar method.
+
+
+## Modulo
+Recall the division theorem, $a=dq+r$ . When we calculate a mod d, we are calculating `r`. 
+
+For example, what is 3 mod 5? 
+
+$3 = 0\times 5 +3$, meaning that 3 mod 5 equals 3. 
+
+So what are the applications of modulo? A really common example used to demonstrate the applications of modulo is something i like to call the "what day is it " problem. Here is how it goes.
+
+The first day is Monday. What day is the 123rd day?
+
+We can solve this using modulo. We know that 1 week has 7 days, so we'll use that fact to solve the question. First we calculate $(123-1)$ mod 7. We subtract by 1 because Monday is the first day, if Monday is the, let's say 23rd day, then we subtract by 23. 
+
+$122$ mod 7 = 3, and 3 days after Monday is Thursday, meaning that the 123rd day is in Thursday!
+
+
+## Thank you
+Alright that marks the end of this post. Remember, you have to practice often to get good and quick with any number theory topics. Don't get discouraged if you find it difficult and keep on practicing. See you on part 2, where I'll discuss modular exponentiation, greatest common divisor, and lowest common multiple! Stay safe and have a nice day 😊
+
